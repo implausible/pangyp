@@ -1,6 +1,6 @@
 {
-  "name": "pangyp",
-  "description": "Node.js and io.js native addon build tool",
+  "name": "mostly-pangyp",
+  "description": "Node.js and io.js native addon build tool, with updated gyp",
   "keywords": [
     "native",
     "addon",
@@ -10,11 +10,11 @@
     "bindings",
     "gyp"
   ],
-  "version": "2.2.1",
-  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
+  "version": "1.0.0",
+  "author": "Tyler Wanek <tylerw@axosoft.com> (http://implausibility.info/)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rvagg/pangyp.git"
+    "url": "git://github.com/implausible/pangyp.git"
   },
   "preferGlobal": true,
   "bin": "./bin/node-gyp.js",

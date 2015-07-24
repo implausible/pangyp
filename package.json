@@ -10,7 +10,7 @@
     "bindings",
     "gyp"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Tyler Wanek <tylerw@axosoft.com> (http://implausibility.info/)",
   "repository": {
     "type": "git",
